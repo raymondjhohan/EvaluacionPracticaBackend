@@ -5,5 +5,5 @@ create table PERSONA
   edad                      NUMBER(3),
   identificación            CHAR(3),
   dirección                 VARCHAR2(100),
-  teléfono                  NUMBER(10))
+  teléfono                  NUMBER(10)
 );
